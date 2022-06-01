@@ -58,13 +58,17 @@ footer a {
 
 /*Hero Style Start*/
 .hero {
-    background-image:url("../css/hero-bg.jpg");
+    background-image:url("./flipped-hero-image.jpg");
     height :600px;
     background-size:cover;
     background-position:center;
     position: relative;
 }
 /*Hero Style End*/
+.hero-cta {
+
+}
+
 
 .hero-form {
     background-color: #fce138;
